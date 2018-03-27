@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+#header {
+ display: none;
+}
+
+#title {
+ .credits {
+  display: none;
+ }
+}
