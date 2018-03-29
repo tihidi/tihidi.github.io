@@ -1,5 +1,5 @@
 ---
-page.title: This is only a test
+page.title: Testing testing 1 2 3
 ---
 
 ## This is only a test
